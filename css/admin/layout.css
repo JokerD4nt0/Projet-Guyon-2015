@@ -1,0 +1,15 @@
+body {
+	padding-top: 70px;
+}
+
+.move-slide{
+	position: absolute;
+	top: 7px;
+	right: 22px;
+	display: none;
+	cursor: move;
+}
+
+.move-menu{
+	cursor: move;
+}
